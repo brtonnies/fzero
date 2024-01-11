@@ -10,6 +10,7 @@
 
 ## Repos and Resources:
 + [Flipper Zero Home](https://flipperzero.one/)
++ [Download Repo Parts](https://uberguidoz.github.io/DownGit/)
 + [This Repo](https://github.com/brtonnies/fzero)
 + [UberGuidoZ Resources (lots here)](https://github.com/djsime1/awesome-flipperzero)
 
