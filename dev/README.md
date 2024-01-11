@@ -1,14 +1,14 @@
 # Welcome to Dev!
 
 ## File Structure
-/dev
-|--scripts
-|--protocols
-|--|--<protocol-name>
-|--|--|--README
-|--|--|--apps
-      |--payloads
-| README
+/dev  
+|--scripts  
+|--protocols  
+|--|--<protocol-name>  
+|--|--|--README  
+|--|--|--apps  
+|--|--|--payloads  
+| README  
 
 ### Scripts
 Collection of helper and utility scripts for various purposes.
