@@ -30,11 +30,19 @@ Collection of helper and utility scripts for various purposes.
 
 #### Payloads
 + These are written for a protocol, typically utilized within an application  (think saved IR remotes/NFC tags/bad-KB attack files/etc.)
-+ This is where (I believe) RubberDucky scripting will be useful for writing custom versions of the aforementioned files rather than using direct reads/writes or copies of other payload files.
++ This is where (I believe) RubberDucky scripting will be useful for writing custom versions of the aforementioned files rather than using direct reads/writes or copies of other payload files -- but it could also be targeted specifically toward the USB protocol and __possibly__ Bluetooth/BadKB.
 + Unlike applications, these should be able to be dropped right into their respective protocol folder on a flipper device (Flipper Lab, etc.) and then be usable right away -- one exception being if they're developed for a custom application.
 
 ### Notes
 + This file structure may not be ideal, but it will work while we're figuring things out.
+
+## Developer Tools, Pre-reqs, Etc.
++ FBT
++ uFBT
++ Duck Encoder / Ducky Toolkit
++ VSCode
++ Any graphics tool that can edit 1-bit PNGs (e.g. paint (windows) & pinta (mac))
+
 
 ## Resources
 + Application Development Tutorial(s)
