@@ -8,7 +8,7 @@
 |--|--|--README  
 |--|--|--apps  
 |--|--|--payloads  
-| README  
+| README (this file)
 
 ### Scripts
 Collection of helper and utility scripts for various purposes.
